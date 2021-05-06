@@ -2,7 +2,7 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "fullscreen",
-    "scope": "/",
+    "scope": "https://femfeelv1.webflow.io/",
     "start_url": "https://femfeelv1.webflow.io/login/",
     "name": "Femfeel",
     "short_name": "Femfeel",
