@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "https://femfeelv1.webflow.io/",
+    "start_url": "https://femfeelv1.webflow.io/members/",
     "name": "Femfeel",
     "short_name": "Femfeel",
     "icons": [
